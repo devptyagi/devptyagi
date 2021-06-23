@@ -50,4 +50,4 @@
   <img src="https://profile-counter.glitch.me/devptyagi/count.svg" />
 </p>
   
-![](https://github.com/amandewatnitrr/amandewatnitrr/blob/main/imgs/bottom_header.svg)
+![](https://github.com/devptyagi/devptyagi/blob/main/assets/bottom_header.svg)
