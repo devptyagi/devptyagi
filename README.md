@@ -1,8 +1,6 @@
 # Hey Everyone! I'm [Dev Tyagi!](https://github.com/devptyagi) <img src="https://github.com/devptyagi/devptyagi/blob/main/assets/Hi.gif" width="25px">
 
-##
 <h3><b><samp>About Me</samp></b></h3>
-
 
 - 👨🏻‍🎓 3rd Year B.Tech Student
 - 💻 Computer Science Major
