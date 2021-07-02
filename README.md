@@ -42,7 +42,6 @@
 <p align="center">
   <a href="https://github.com/devptyagi"><span>
     <img height="48%" src="https://github-readme-stats.vercel.app/api?username=devptyagi&count_private=true&show_icons=true&theme=tokyonight&&include_all_commits=true"/>
-    <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=devptyagi&theme=tokyonight" />
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=devptyagi&hide=html,css,javascript,scss&layout=compact&langs_count=8&theme=tokyonight"/>
     </span></a>
 </p>
