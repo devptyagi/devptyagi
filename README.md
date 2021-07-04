@@ -35,7 +35,10 @@
 ![Firebase](https://img.shields.io/badge/Firebase-ffcb2c?style=flat-square&logo=Firebase&logoColor=DD1100)
 ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=flat-square&logo=Visual-Studio-Code&logoColor=white)
 ![Eclipse](https://img.shields.io/badge/Eclipse-cccccc?style=flat-square&logo=eclipse&logoColor=29234f)
-![Heroku](https://img.shields.io/badge/Heroku-430098?style=flat-square&logo=Heroku&logoColor=white)   
+![Heroku](https://img.shields.io/badge/Heroku-430098?style=flat-square&logo=Heroku&logoColor=white)
+![DigitalOcean](https://img.shields.io/badge/DigitalOcean-307FEF?style=flat-square&logo=DigitalOcean&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-365B9E?style=flat-square&logo=microsoftazure&logoColor=white) 
+![AWS](https://img.shields.io/badge/AWS-EA9836?style=flat-square&logo=amazonaws&logoColor=white) 
 
 ### Github Stats
   
