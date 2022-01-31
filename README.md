@@ -5,7 +5,7 @@
 - 👨🏻‍🎓 3rd Year B.Tech Student
 - 💻 Computer Science Major
 - 📱 Android Developer
-- 🖥 MERN Stack Developer
+- 🖥 Backend Developer
 
 
 ##
