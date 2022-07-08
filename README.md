@@ -6,6 +6,7 @@
 - 💻 Computer Science Major.
 - 📱 Android Developer.
 - 🖥 Backend Developer.
+- 👨🏻‍🏫 SDE Intern @ TartanHQ.
 - ☕️ Java - Spring Boot Developer.
 
 
