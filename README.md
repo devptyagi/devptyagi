@@ -2,7 +2,7 @@
 
 <h3><b><samp>About Me</samp></b></h3>
 
-- 👨🏻‍🎓 3rd Year B.Tech Student.
+- 👨🏻‍🎓 Final Year B.Tech Student.
 - 💻 Computer Science Major.
 - 📱 Android Developer.
 - 🖥 Backend Developer.
