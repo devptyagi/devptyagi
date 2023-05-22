@@ -2,11 +2,10 @@
 
 <h3><b><samp>About Me</samp></b></h3>
 
-- 👨🏻‍🎓 Final Year B.Tech Student.
+- 👨🏻‍🏫 SDE Intern @ Amazon.
 - 💻 Computer Science Major.
 - 📱 Android Developer.
 - 🖥 Backend Developer.
-- 👨🏻‍🏫 SDE Intern @ TartanHQ.
 - ☕️ Java - Spring Boot Developer.
 
 
