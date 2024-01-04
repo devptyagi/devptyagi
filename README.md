@@ -2,18 +2,18 @@
 
 <h3><b><samp>About Me</samp></b></h3>
 
-- 🧑🏻‍💻 Software Engineer @ AppSecure Security.
-- 👨🏻‍🏫 ex-SDE Intern @ Amazon.
-- 👨🏻‍🏫 ex-SDE Intern @ TartanHQ.
-- 💻 Computer Science Major.
+- 🧑🏻‍💻 Software Engineer @ Zomato.
+- 🧑🏻‍💻 ex - Software Engineer @ AppSecure Security.
+- 👨🏻‍🏫 ex - SDE Intern @ Amazon.
+- 👨🏻‍🏫 ex - SDE Intern @ TartanHQ.
 - 🖥 Backend Developer.
-- ☕️ Java - Spring Boot Developer.
 
 
 ##
 <h3><b><samp>Skills and Languages</samp></b></h3>     
 
 ![Java](https://img.shields.io/badge/Java-013243?style=flat-square&logo=Java&logoColor=white)
+![Go](https://img.shields.io/badge/Go-3776AB?style=flat-square&logo=Go&logoColor=white)
 ![SpringBoot](https://img.shields.io/badge/SpringBoot-1c1f23?style=flat-square&logo=springboot&logoColor=339933)
 ![NodeJS](https://img.shields.io/badge/NodeJS-339933?style=flat-square&logo=node.js&logoColor=80d8f7)
 ![FastAPI](https://img.shields.io/badge/FastAPI-292c33?style=flat-square&logo=fastapi&logoColor=80d8f7)
